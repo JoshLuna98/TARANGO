@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Evidencia4", "Evidencia4\Evidencia4.csproj", "{EE446B9C-6E8B-4A35-A57D-A636B8542C5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE446B9C-6E8B-4A35-A57D-A636B8542C5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE446B9C-6E8B-4A35-A57D-A636B8542C5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE446B9C-6E8B-4A35-A57D-A636B8542C5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE446B9C-6E8B-4A35-A57D-A636B8542C5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {307A9D59-137A-4B23-9F5C-EDF3C9434D91}
+	EndGlobalSection
+EndGlobal

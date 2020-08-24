@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\PROGRAMACION\Orientada a Objetos\Rocio\Evidencia4\Evidencia4\bin\Debug\Evidencia4.exe.config
+C:\Users\user\Desktop\PROGRAMACION\Orientada a Objetos\Rocio\Evidencia4\Evidencia4\bin\Debug\Evidencia4.exe
+C:\Users\user\Desktop\PROGRAMACION\Orientada a Objetos\Rocio\Evidencia4\Evidencia4\bin\Debug\Evidencia4.pdb
+C:\Users\user\Desktop\PROGRAMACION\Orientada a Objetos\Rocio\Evidencia4\Evidencia4\obj\Debug\Evidencia4.csprojAssemblyReference.cache
+C:\Users\user\Desktop\PROGRAMACION\Orientada a Objetos\Rocio\Evidencia4\Evidencia4\obj\Debug\Evidencia4.inicio.resources
+C:\Users\user\Desktop\PROGRAMACION\Orientada a Objetos\Rocio\Evidencia4\Evidencia4\obj\Debug\Evidencia4.Mall.resources
+C:\Users\user\Desktop\PROGRAMACION\Orientada a Objetos\Rocio\Evidencia4\Evidencia4\obj\Debug\Evidencia4.PaseoGP.resources
+C:\Users\user\Desktop\PROGRAMACION\Orientada a Objetos\Rocio\Evidencia4\Evidencia4\obj\Debug\Evidencia4.Properties.Resources.resources
+C:\Users\user\Desktop\PROGRAMACION\Orientada a Objetos\Rocio\Evidencia4\Evidencia4\obj\Debug\Evidencia4.csproj.GenerateResource.cache
+C:\Users\user\Desktop\PROGRAMACION\Orientada a Objetos\Rocio\Evidencia4\Evidencia4\obj\Debug\Evidencia4.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\PROGRAMACION\Orientada a Objetos\Rocio\Evidencia4\Evidencia4\obj\Debug\Evidencia4.exe
+C:\Users\user\Desktop\PROGRAMACION\Orientada a Objetos\Rocio\Evidencia4\Evidencia4\obj\Debug\Evidencia4.pdb
